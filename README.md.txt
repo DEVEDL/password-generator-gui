@@ -20,7 +20,8 @@ A simple GUI-based password generator built using Python and Tkinter.
 2. Run:
 
    ```
-   python AppPassword
-.py
+   python AppPassword.py
+
+
 
 Made by Shrey
